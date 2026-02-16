@@ -1,5 +1,7 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding da Poliana
 
+Este projeto foi criado como resposta a um **desafio de projeto da DIO (Digital Innovation One)** usando como ferramentas o **Copilot Web** e o **Loveble**. O objetivo foi aplicar conceitos de **PRD (Product Requirements Document)** e **Vibe Coding** para desenvolver um aplicativo de finanças pessoais que utiliza linguagem natural para facilitar o controle financeiro.
+
 PRD refinado no Copilot:
 
 ``` markdown
