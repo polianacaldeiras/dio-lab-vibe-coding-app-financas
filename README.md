@@ -1,6 +1,6 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding da Poliana
 
-Este projeto foi criado como resposta a um **desafio de projeto da DIO (Digital Innovation One)** usando como ferramentas o **Copilot Web** e o **Loveble**. O objetivo foi aplicar conceitos de **PRD (Product Requirements Document)** e **Vibe Coding** para desenvolver um aplicativo de finanças pessoais que utiliza linguagem natural para facilitar o controle financeiro.
+Este projeto foi criado como resposta a um **desafio de projeto da DIO (Digital Innovation One)** usando como ferramentas o **Copilot Web** e o **Lovable**. O objetivo foi aplicar conceitos de **PRD (Product Requirements Document)** e **Vibe Coding** para desenvolver um aplicativo de finanças pessoais que utiliza linguagem natural para facilitar o controle financeiro.
 
 PRD refinado no Copilot:
 
@@ -49,7 +49,7 @@ Entregável da IA
 
 ```
 
-Interações com o Loveble:
+Interações com o Lovable:
 
 > Crie um app de finanças pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
 
@@ -57,7 +57,7 @@ Interações com o Loveble:
 
 > Implemente a funcionalidade de criar metas pelo botão "Nova meta" (com formulário e estado local) {Quer que eu implemente a funcionalidade de criar metas pelo botão "Nova meta" (com formulário e estado local)? Ou prefere que isso seja persistido em banco de dados via Lovable Cloud?}
 
-Resultado final no Loveble: https://personal-finance-talk.lovable.app
+Resultado final no Lovable: https://personal-finance-talk.lovable.app
 
 <img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/d20fdb6f-f29d-40f3-af57-e0694c5a4621" />
 
@@ -101,11 +101,11 @@ Resultado final no Loveble: https://personal-finance-talk.lovable.app
 
 ### O que funcionou bem?
 
-Os ajustes do PRD no Copilot foram imprescindíveis para a realização do app no Loveble, porque os créditos gratuitos diários são limitados e, com certeza, teriam acabado sem um bom resultado da aplicação no Lovable caso eu tivesse feito o refinamento por lá.
+Os ajustes do PRD no Copilot foram imprescindíveis para a realização do app no Lovable, porque os créditos gratuitos diários são limitados e, com certeza, teriam acabado sem um bom resultado da aplicação no Lovable caso eu tivesse feito o refinamento por lá.
 
 ### O que não funcionou como o esperado?  
 
-Quando o Loveble finalizou a criação da aplicação não apresentou uma página de login. O app já iniciou como se eu já tivesse feito o login na aplicação. Além disso, a página de metas tinha apenas um botão de Nova meta sem a funcionalidade criada e, por isso, foi necessário retornar ao prompt do Loveble para que ele corrigisse a aplicação. E, só para relatar, após essa correção os créditos gratuitos foram finalizados. 
+Quando o Lovable finalizou a criação da aplicação não apresentou uma página de login. O app já iniciou como se eu já tivesse feito o login na aplicação. Além disso, a página de metas tinha apenas um botão de Nova meta sem a funcionalidade criada e, por isso, foi necessário retornar ao prompt do Lovable para que ele corrigisse a aplicação. E, só para relatar, após essa correção os créditos gratuitos foram finalizados. 
 
 ### O que aprendeu sobre conversar com IAs?
 
@@ -114,4 +114,4 @@ Para que as IAs funcionem corretamente é necessário ser o mais clara e objetiv
 
 ## 💬 Conclusão
 
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+"Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado." (DIO)
